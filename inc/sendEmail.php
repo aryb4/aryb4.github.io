@@ -1,7 +1,7 @@
 ﻿<?php
 
-// Replace this with your own email address
-$siteOwnersEmail = 'user@website.com';
+// Recipient address for contact form submissions
+$siteOwnersEmail = 'bonulaar@msu.edu';
 
 
 if($_POST) {
